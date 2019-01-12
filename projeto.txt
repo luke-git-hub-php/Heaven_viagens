@@ -1,0 +1,11 @@
+Bom dia turma. Atividade para amanhã valendo nota parcial de Lab. Web (PHP+MySQL). Pode utilizar algum framework (Angular JS, Bootstrap, Laravel, exceto Joomla, Wordpress e Drupal). 
+
+Fazer um site para amanhã de agência de viagens. Esse site deve conter o nome da empresa, 6 menus.
+ 
+Crie 25 destinos diferentes. Cada destino deve ter o nome da cidade, a quantidade de dias que o turista vai ficar, se inclui ou não as passagens aéreas e/ou terrestre, translado (hotel/aeroporto/hotel), a nota do hotel (de 1 a 5 estrelas), passeios que tem na cidade, valor do pacote (e as parcelas) e a validade do pacote. 
+
+O site deve conter o maior número de informações possíveis, mas que não tenha poluição.
+
+Fazer uma tela de Login administrativo onde possa fazer o CRUD dos clientes com informações pessoais (nome, cpf, 2 telefones, e-mail, cidade, estado (onde reside), viagens que ele já foi com data de ida e volta, valor da passagem e quantas pessoas foram com ele. Fazer um Consulta os clientes pelo nome ou CPF e exibir seus dados cadastrais com o histórico de viagens. Alterar e excluir essas informações.
+
+ Os frameworks são opcionais, não obrigatórios. Pode ser somente com PHP, MySQL, HTML, CSS e Javascript.
